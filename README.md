@@ -1,3 +1,6 @@
+#Location On Web
+Currently on http://hwfast.com. Need to get it fully functioning though. 
+
 # Plagiarism-Checker
 
 A utility to check if a document's contents are plagiarised.
